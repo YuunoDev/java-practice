@@ -1,3 +1,4 @@
+package basics;
 public class Constantes {
     //     static final tipo_de_dato NOMBRE_DE_LA_CONSTANTE = valor;
     public static final int days = 7;

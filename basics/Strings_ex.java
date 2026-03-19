@@ -1,3 +1,4 @@
+package basics;
 public class Strings_ex {
     public static void main(String[] args) {
         String fraseString = "Aprendiendo Java";

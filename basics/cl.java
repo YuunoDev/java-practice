@@ -1,3 +1,4 @@
+package basics;
 public class cl {
     private String name;
     String color;

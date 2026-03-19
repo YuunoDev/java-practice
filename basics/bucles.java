@@ -1,3 +1,4 @@
+package basics;
 public class bucles {
     public static void main(String[] args) {
         //While

@@ -1,3 +1,4 @@
+package basics;
 import javax.swing.JOptionPane;
 
 public class JOptionPaneEjemplos {

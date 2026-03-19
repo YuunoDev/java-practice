@@ -1,3 +1,4 @@
+package basics;
 public class funt {
     public static void saludar(String mensa){
         System.out.println(mensa);

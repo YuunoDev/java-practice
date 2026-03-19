@@ -1,3 +1,4 @@
+package basics;
 public class Num {
     public static void main(String[] args) {
         int num = 10; //-2,147,483,648	2,147,483,647

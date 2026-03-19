@@ -1,3 +1,4 @@
+package basics;
 
 public class Ex_ar1 {
     public static void main(String[] args) {

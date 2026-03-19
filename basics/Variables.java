@@ -1,3 +1,4 @@
+package basics;
 public class Variables {
     public static void main(String[] args) {
         int numEntero = 10;
