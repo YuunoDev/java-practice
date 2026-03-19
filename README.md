@@ -32,7 +32,7 @@ java-practice/
 
 1. Clone this repository:
    ```bash
-   git clone 
+   [git clone](https://github.com/YuunoDev/java-practice.git) 
    ```
 2. Open the project in your preferred IDE.
 3. Navigate to any file and run it directly.
@@ -43,7 +43,7 @@ Strengthen my Java skills through consistent practice, covering both fundamental
 
 ## 📬 Contact
 
-Feel free to reach out or leave feedback via [GitHub Issues](https://github.com/your-username/java-practice/issues).
+Feel free to reach out or leave feedback via [LinkedIn](https://www.linkedin.com/in/adrian-alonso-arambula-a06301224/).
 
 ---
 
