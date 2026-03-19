@@ -1,4 +1,4 @@
-package Sobreescritura;
+package basics.OOP.Sobreescritura;
 
 public class Perro extends Animal{
     @Override

@@ -1,4 +1,4 @@
-package Ex;
+package basics.OOP.Ex;
 
 public class Exercise_3 {
     public static void main(String[] args) {
