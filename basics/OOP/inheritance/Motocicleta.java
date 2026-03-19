@@ -1,11 +1,10 @@
-package v;
+package basics.OOP.inheritance;
 
 public class Motocicleta extends Vehiculo{
     String tipoCasco;
-
-    
-    public Motocicleta(String marca, String modelo, int año, String tipoCasco) {
-        super(marca, modelo, año);
+   
+    public Motocicleta(String marca, String modelo, int año, int numeroserie, String tipoCasco) {
+        super(marca, modelo, año, numeroserie);
         this.tipoCasco = tipoCasco;
     }
 

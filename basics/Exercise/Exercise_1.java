@@ -1,4 +1,4 @@
-package basics.OOP.Ex;
+package basics.Exercise;
 
 
 public class Exercise_1 {

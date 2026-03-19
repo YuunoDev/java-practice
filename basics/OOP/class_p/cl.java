@@ -1,4 +1,4 @@
-package basics.OOP;
+package basics.OOP.class_p;
 public class cl {
     private String name;
     String color;
@@ -42,9 +42,6 @@ public class cl {
         coche.color= "Rojo";
 
         System.out.println(coche.toString());
-
-        // Prueba  - 2026/03/09 09:48:03
-
         
         cl muestra = new cl("Adrian", "Azul");
         System.out.println(muestra.toString());

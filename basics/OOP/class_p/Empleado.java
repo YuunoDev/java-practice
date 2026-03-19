@@ -1,4 +1,4 @@
-package Ex;
+package basics.OOP.class_p;
 
 public class Empleado {
     public String nombre;
@@ -12,10 +12,15 @@ public class Empleado {
         this.departamento = departamento;
     }
 
-
     public Empleado(String nombre, double salario) {
         this.nombre = nombre;
         this.salario = salario;
+        this.departamento = "RH";
+    }
+
+    public Empleado(){
+        this.nombre = "Jone";
+        this.salario = 1000;
         this.departamento = "RH";
     }
 

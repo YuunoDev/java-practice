@@ -1,4 +1,4 @@
-package Sobreescritura;
+package basics.OOP.Polymorphism;
 
 public class Animal {
     public void hacerSonido(){

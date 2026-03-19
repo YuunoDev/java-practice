@@ -1,4 +1,5 @@
-package Enca;
+package basics.OOP.Encapsulation;
+
 
 public class CuentaBancaria {
     private String numeroCuenta;

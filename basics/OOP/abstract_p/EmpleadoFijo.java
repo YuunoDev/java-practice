@@ -1,4 +1,6 @@
-package clas;
+package basics.OOP.abstract_p;
+
+
 
 public class EmpleadoFijo extends Empleado{
     double salarioMensual;

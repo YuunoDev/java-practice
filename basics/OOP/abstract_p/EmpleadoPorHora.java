@@ -1,4 +1,4 @@
-package clas;
+package basics.OOP.abstract_p;
 
 public class EmpleadoPorHora extends Empleado{
     double tarifaPorHora;

@@ -1,4 +1,4 @@
-package Sobreescritura;
+package basics.OOP.Polymorphism;
 
 public class PruebaAnimales {
     public static void main(String[] args) {

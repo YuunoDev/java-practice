@@ -1,4 +1,4 @@
-package basics.OOP.Sobreescritura;
+package basics.OOP.Polymorphism;
 
 public class Perro extends Animal{
     @Override
