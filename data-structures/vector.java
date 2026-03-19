@@ -1,6 +1,5 @@
-package basics;
 
-public class Ex_ar1 {
+public class vector {
     public static void main(String[] args) {
         int[] nums = new int[4];
 

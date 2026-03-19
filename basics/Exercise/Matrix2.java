@@ -1,7 +1,7 @@
-package basics;
+package basics.Exercise;
 import java.util.Scanner;
 
-public class Mat2 {
+public class Matrix2 {
     public static void main(String[] args) {
         try (Scanner scan = new Scanner(System.in)) {
             System.out.println("Matriz A: ");

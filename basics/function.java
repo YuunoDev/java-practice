@@ -1,5 +1,5 @@
 package basics;
-public class funt {
+public class function {
     public static void saludar(String mensa){
         System.out.println(mensa);
     }

@@ -19,13 +19,5 @@ public class Variables {
         boolean flag = true;
         System.out.println("Bolean: "+ flag);
 
-
-        if (flag) {
-            
-        } else if (flag) {
-            
-        } else {
-            
-        }
     }
 }

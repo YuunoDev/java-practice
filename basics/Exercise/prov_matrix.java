@@ -1,7 +1,7 @@
-package basics;
+package basics.Exercise;
 import java.util.Scanner;
 
-public class prov {
+public class prov_matrix {
   public static void main(String[] args) {
     try (Scanner lectura = new Scanner(System.in)) {
       System.out.print("Row: ");

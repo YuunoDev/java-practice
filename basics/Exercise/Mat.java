@@ -1,4 +1,4 @@
-package basics;
+package basics.Exercise;
 public class Mat {
     public static void main(String[] args) {
         int a = 100;

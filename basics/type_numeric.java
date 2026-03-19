@@ -1,5 +1,5 @@
 package basics;
-public class Num {
+public class type_numeric {
     public static void main(String[] args) {
         int num = 10; //-2,147,483,648	2,147,483,647
         double numd = 10.0; //~±1.8e+308 (15-16 decimal digits)

@@ -1,4 +1,4 @@
-package basics;
+package basics.OOP;
 public class cl {
     private String name;
     String color;
