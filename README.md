@@ -10,9 +10,9 @@ This repository contains my Java exercises, implementations, and small projects.
 
 ```
 java-practice/
-├── basics/          # Basic Java exercises (variables, loops, OOP, etc.)
-├── data-structures/ # Arrays, lists, stacks, queues, trees, etc.
 ├── algorithms/      # Sorting, searching, recursion, etc.
+├── basics/          # Basic Java exercises (variables, loops, OOP, etc.)
+├── data-structures/ # Arrays, lists, stacks, queues, trees, etc. 
 └── projects/        # Small projects built with Java
 ```
 
