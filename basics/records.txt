@@ -1,0 +1,7 @@
+Feature                                 Details
+Immutable                               All fields are final by default
+No inheritanceRecords                   implicitly extend java.lang.Record
+Can implement interfaces                Yes 
+Can have static fields/methods          Yes
+Can have instance fields                Only the ones declared in the header
+Minimum Java version                    Java 16 (preview in 14–15)

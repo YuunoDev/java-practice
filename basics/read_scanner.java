@@ -8,6 +8,13 @@ public class read_scanner {
             String name = scanner.nextLine();
 
             System.out.println("Name: "+name);
+
+            int edad = scanner.nextInt();
+            System.out.println(edad);
+            scanner.nextLine(); // "Limpia" el salto de línea pendiente
+
+            String nombre = scanner.nextLine(); // Ahora sí lee el nombre correctamente
+            System.out.println(nombre);
         }
 
     }
