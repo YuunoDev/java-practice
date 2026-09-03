@@ -43,7 +43,7 @@ public class binary {
             num = scan.nextInt();
             System.out.println(tobinary(num));
 
-            System.out.println(toint("11110000"));
+            //System.out.println(toint("11110000"));
         } catch (Exception e) {
             // TODO: handle exception
             System.out.println("Error al leer: "+e);
