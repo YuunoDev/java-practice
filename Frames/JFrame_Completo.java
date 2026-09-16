@@ -1,4 +1,4 @@
-package projects;
+package Frames;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

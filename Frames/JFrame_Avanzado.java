@@ -1,4 +1,4 @@
-package projects;
+package Frames;
 
 import javax.swing.*;
 import javax.swing.border.*;
