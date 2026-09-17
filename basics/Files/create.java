@@ -7,7 +7,7 @@ public class create {
 
     public static void main(String[] args) {
         // name file
-        String name = "text.txt";
+        String name = "basics/Files/text.txt";
 
         try {
             File myobj = new File(name);
